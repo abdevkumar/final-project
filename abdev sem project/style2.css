@@ -1,0 +1,84 @@
+body{
+    /* background-color: lightblue; */
+    text-align: center;
+    /* background-image: url(2.png); */
+}
+h2{
+    font-weight: bolder;
+    margin-top: 20px;
+}
+ul{
+    float: centre;
+    list-style-type: none;
+    color: solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    size: 100px;
+    font-size: large;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    color: grey;
+    padding: 5px 30px;
+    border: 3px solid transparent;
+
+}
+footer{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px;
+    padding: 10px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+P{
+    font-size: larger;
+}
+ul li a:hover{
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+}
+.box{
+    display: flex;
+}
+.golden{
+    border-radius: 23px;
+    height: 30pc;
+    width: 30pc;
+    margin: 15px;
+    padding-left: 200px;
+}
+.golden img{
+    height: 23pc;
+    width: 25pc;
+}
+.goat{
+    border-radius: 23px;
+    height: 30pc;
+    width: 30pc;
+    margin: 15px;
+}
+.goat img{
+    height: 23pc;
+    width: 25pc;
+}
+.btn{
+    font-size: larger;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: lightblue;
+    padding: 6px 20px;
+    margin: 17px;
+}
+h2{
+    font-weight: bolder;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+body{
+    background-color: beige;
+}

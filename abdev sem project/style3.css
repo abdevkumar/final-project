@@ -1,0 +1,111 @@
+body{
+    background-color: lightcyan;
+}
+h2{
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.golden{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.goat{
+    height: 32pc;
+    width: 20pc;
+    border: 5px solid black;
+    border-radius: 18px;
+    padding-left: 2pc;
+    margin: 5px;
+}
+.goat img{
+    height: 20pc;
+    width: 18pc;
+}
+.pure{
+    height: 32pc;
+    width: 20pc;
+    border: 5px solid black;
+    border-radius: 18px;
+    padding-left: 2pc;
+    margin: 5px;
+}
+.pure img{
+    height: 20pc;
+    width: 18pc;
+}
+.free{
+    height: 32pc;
+    width: 20pc;
+    border: 5px solid black;
+    border-radius: 18px;
+    padding-left: 2pc;
+    margin: 5px;
+}
+.free img{
+    height: 20pc;
+    width: 18pc;
+}
+.fecce{
+    height: 32pc;
+    width: 20pc;
+    border: 5px solid black;
+    border-radius: 18px;
+    padding-left: 2pc;
+    margin: 5px;
+}
+.fecce img{
+    height: 20pc;
+    width: 18pc;
+}
+.new{
+    display: flex;
+    padding-left: 5.2pc;
+}
+.ring{
+    height: 41pc;
+    width: 38pc;
+    border: 5px solid black;
+    border-radius: 18px;
+    padding-left: 2pc;
+    margin: 5px;
+}
+.ring img{
+    height: 30pc;
+    width: 32pc;
+}
+.gold{
+    height: 41pc;
+    width: 38pc;
+    border: 5px solid black;
+    border-radius: 18px;
+    padding-left: 2pc;
+    margin: 5px;
+}   
+.gold img{
+    height: 30pc;
+    width: 32pc;
+}
+.error{
+    border: 3px solid black;
+    border-radius: 15px;
+    height: 2pc;
+    width: 10pc;
+    margin: 5px;
+    padding: 3px;
+    letter-spacing: 2px;
+}
+.error:hover{
+    background-color: black;
+    color: white;
+}
+.one{
+    border: 3px solid black;
+    border-radius: 15px;
+    height: 2pc;
+    width: 10pc;
+    margin: 5px;
+    padding-bottom: 3pc;
+    padding: 3px;
+    letter-spacing: 2px;
+}

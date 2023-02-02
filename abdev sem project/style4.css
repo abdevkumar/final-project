@@ -1,0 +1,39 @@
+body{
+    background-color: lightcyan;
+    
+}
+.buy{
+    display: flex;
+    padding-left: 20pc;
+    padding-top: 5pc;
+}
+.one{
+    border: 5px solid black;
+    background-color: whitesmoke;
+    border-radius: 23px;
+    height: 500px;
+    width: 375px;
+    margin: 15px;
+}
+.one img{
+    height: 300px;
+    width: 350px;
+    padding: 10px;
+}
+p{
+    margin: 30px;
+    font-size: larger;
+}
+.get{
+    border: 5px solid black;
+    background-color: whitesmoke;
+    border-radius: 23px;
+    height: 500px;
+    width: 375px;
+    margin: 15px;
+}
+.get img{
+    height: 300px;
+    width: 350px;
+    padding: 10px;
+}
